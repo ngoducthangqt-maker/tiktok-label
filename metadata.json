@@ -1,0 +1,5 @@
+{
+  "name": "TikTok Label Master",
+  "description": "A powerful client-side tool to parse TikTok shipping PDF labels, export to Excel, and generate smart printing sequences.",
+  "requestFramePermissions": []
+}
